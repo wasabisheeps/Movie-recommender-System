@@ -20,3 +20,20 @@ This is a simple content-based movie recommender built using:
 2. Install the required libraries:
 ```bash
 pip install pandas scikit-learn
+
+## 📌 **Credits**
+
+**Dataset**: [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata) from **Kaggle**
+
+All rights and ownership of the dataset belong to the original creators and **The Movie Database (TMDb)**.
+
+
+
+
+
+
+
+
+
+
+
